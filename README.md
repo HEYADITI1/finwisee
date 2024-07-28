@@ -26,9 +26,9 @@ This project was brought to life by a dedicated team of five:
 
 - **Aditi Bhadoria** - [GitHub](https://github.com/HEYADITI1)
 - **Kopal Pareek** - [GitHub](https://github.com/Kopal05)
-- **Parisha Aggarwal** - [GitHub](https://github.com/parishaaggarwal)
+- **Parisha Aggarwal** - [GitHub](https://github.com/Parisha-Aggarwal)
 - **Isha Khetarpal** - [GitHub](https://github.com/ishakhetarpal)
-- **Sana Mansoori** - [GitHub](https://github.com/sanamaqbool)
+- **Sana Mansoori** - [GitHub](https://github.com/)
 
 ## Installation and Setup
 
